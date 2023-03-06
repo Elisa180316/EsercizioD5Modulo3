@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@400;700&display=swap');
+
+body {
+    font-family: 'Gentium Book Plus', sans-serif;
+}
+
+body > nav > div.container-fluid.d-flex.justify-content-end > a:nth-child(2) > img {
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+   
+}
+
+body > nav > div.container-fluid.d-flex.justify-content-end.mr-0 {
+    margin-right: -13%;
+}
+
+body > div.card.mb-3 > div > div:nth-child(1) > div > h5 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+body > div.card.mb-3 > div > div:nth-child(1) > div > p {
+    font-size: 20px;
+}
+
+body > div.card.mb-3, #carouselExampleIndicators {
+    background-color: blueviolet;
+}
+
+body > div.card.mb-3 > div > div:nth-child(1) > div > h5, body > div.card.mb-3 > div > div:nth-child(1) > div > p {
+    color: white
+}
+
+body > div > div > div:nth-child(1) > div > button.btn.btn-success, body > div > div > div:nth-child(1) > div > button.btn.btn-light {
+    width: 20%;
+    font-weight: bold;
+}
+#primeCard > div.jumbotron.jumbotron-fluid > div > h1, #secondCard > div.jumbotron.jumbotron-fluid > div > h1, #thirdCard > div.jumbotron.jumbotron-fluid > div > h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+ i.bi.bi-clock, #primeCard > div.row > div > div > div.card-body > span, #secondCard > div.row > div > div > div.card-body > span, #thirdCard > div.row > div > div > div.card-body > span,
+  #secondCard > div.row > div:nth-child(3) > div > div.card-body > span:nth-child(5),
+ #thirdCard > div.row > div:nth-child(3) > div > div.card-body > span:nth-child(5),
+  #primeCard > div.row > div:nth-child(1) > div > div.card-body > span:nth-child(5) {
+    color: gray;
+}
+
+i.bi.bi-bar-chart-fill {
+    color:blue
+}
+
+i.bi.bi-star, i.bi.bi-star-fill, i.bi.bi-star-half, div.card-body > div:nth-child(6) > span:nth-child(6), #secondCard > div.row > div:nth-child(1) > div > div.card-body > div:nth-child(6) > span:nth-child(7), #thirdCard > div.row > div:nth-child(2) > div > div.card-body > div:nth-child(6) > span:nth-child(7) {
+    color:  rgb(235, 235, 48);
+    font-weight: bold;
+}
+                               
+  
+
+
+div.card-body > div:nth-child(6) > span:nth-child(7), div.card-body > span:nth-child(3), #secondCard > div.row > div:nth-child(1) > div > div.card-body > div:nth-child(6) > span:nth-child(8), #thirdCard > div.row > div:nth-child(2) > div > div.card-body > div:nth-child(6) > span:nth-child(8) {
+    color: gray
+}
+
+ div.card-body > div:nth-child(7) > span:nth-child(1) {
+    font-weight: bold;
+}
+
+div.card-body > div:nth-child(7) > span:nth-child(2) {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.avatar {
+    border-radius: 50%;
+    width: 18%;
+    height: 95%;
+}
+
+#primeCard > div.row > div:nth-child(1) > div > div.card-footer > i {
+    margin-left: 32%;
+}
+
+
+body > footer > section > div:nth-child(2) > a {
+    text-decoration: none;
+}
+
+  
